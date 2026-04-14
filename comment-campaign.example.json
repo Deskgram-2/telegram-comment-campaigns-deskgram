@@ -1,0 +1,9 @@
+{
+  "channels": [
+    "@channel_alpha",
+    "@channel_beta"
+  ],
+  "threads": 5,
+  "channel_mode": "list",
+  "message_type": "text"
+}
