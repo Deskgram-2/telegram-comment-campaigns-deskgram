@@ -1,11 +1,11 @@
 # Repo Metadata
 
-## Основное
+## 
 
 - proposed_repo: `telegram-comment-campaigns-deskgram`
 - language: `ru`
-- role: продуктовый гайд по автоматическим комментариям в Telegram-каналах
-- primary_keyword: `комментирование telegram каналов`
+- role:       Telegram-
+- primary_keyword: ` telegram `
 - secondary_keywords:
   - `telegram comments automation`
   - `telegram comment campaigns`
@@ -14,7 +14,7 @@
 
 ## GitHub Description
 
-Комментирование в Deskgram 2: список каналов, конструктор сообщений, автоответчик, вкладки настроек, статистика и Telegram comment campaigns.
+  Deskgram 2:  ,  , ,  ,   Telegram comment campaigns.
 
 ## Topics
 
